@@ -1,3 +1,5 @@
+#A short messy implementation of a 2-dimensional kth nearest neighbor algorithm
+
 import math
 
 class Point:
